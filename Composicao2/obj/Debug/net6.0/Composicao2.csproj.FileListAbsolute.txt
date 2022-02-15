@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\bin\Debug\net6.0\Composicao2.exe
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\bin\Debug\net6.0\Composicao2.deps.json
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\bin\Debug\net6.0\Composicao2.runtimeconfig.json
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\bin\Debug\net6.0\Composicao2.dll
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\bin\Debug\net6.0\ref\Composicao2.dll
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\bin\Debug\net6.0\Composicao2.pdb
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.dll
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\ref\Composicao2.dll
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.pdb
+C:\Users\Usuario\Desktop\visualstudio\Composicao2\Composicao2\obj\Debug\net6.0\Composicao2.genruntimeconfig.cache
